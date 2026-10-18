@@ -1,0 +1,212 @@
+[LOCUTOR 6]: Hoje deu certo da
+[LOCUTOR 21]: gente
+[LOCUTOR 6]: se encontrar.
+[LOCUTOR 21]: Hoje deu.
+[LOCUTOR 17]: Que bom.
+[LOCUTOR 6]: [LOCAL],
+[LOCUTOR 17]: pessoal.
+[LOCUTOR 6]: A [PESSOA] ainda não retornou de férias?
+[LOCUTOR 21]: Não.
+[LOCUTOR 17]: Não?
+[LOCUTOR 6]: Foi com ela tudo bem?
+[LOCUTOR 17]: Travou meu computador aqui agora. Vocês estão me escutando?
+[LOCUTOR 6]: 
+[LOCUTOR 8]: computador deu uma travadinha, não consegui abrir minha câmera, mas tá no processo. [LOCAL]. [LOCAL]. [LOCAL]... Obrigado pelo tempo de
+[LOCUTOR 17]: vocês.
+[LOCUTOR 6]: Eu trouxe aqui o [PESSOA], que é o especialista da plataforma, e eu até ia pedir para vocês, previamente,
+[LOCUTOR 17]: para
+[LOCUTOR 6]: se apresentar também, falar qual
+[LOCUTOR 17]: é a
+[LOCUTOR 6]: área de vocês, e também dar um pequeno briefing do que vocês esperam da solução, só para o [PESSOA] ter um direcionamento um pouco mais assertivo ali na apresentação,
+[LOCUTOR 21]: tá bom? Quer começar,
+[LOCUTOR 1]: [PESSOA]?
+[LOCUTOR 17]: Pode ser. Eu não consegui abrir a
+[LOCUTOR 21]: minha câmera,
+[LOCUTOR 17]: tá, pessoal? Acho que vocês estão conseguindo me escutar, que tá
+[LOCUTOR 1]: meio travado,
+[LOCUTOR 17]: depois eu troco de local. Então, a gente trabalha com pesquisa clínica e eu fico no setor do laboratório central, que a gente chama, então é um setor que a gente tem o recebimento de kits conforme o estudo, né, então a gente tem vários estudos aqui no centro e E aí, o ponto principal, eu acho, seria a gente conseguir organizar essa questão de recebimento, estoque e relacionadas ao meu setor, seria isso,
+[LOCUTOR 1]: né?
+[LOCUTOR 17]: Mais uma questão de organização. [LOCAL],
+[LOCUTOR 6]: é só pedir a permissão de todos para fazer a gravação, tudo bem?
+[LOCUTOR 1]: Por mim,
+[LOCUTOR 21]: tudo
+[LOCUTOR 17]: bem.
+[LOCUTOR 21]: Sem problemas
+[LOCUTOR 17]: também. Obrigado.
+[LOCUTOR 21]: Bom, então eu vou me apresentar. A [PESSOA], então, ela tá ausente, ela tá em férias em momento. Eu sou a [PESSOA], uma das farmacêuticas aqui do [LOCAL] também. Hoje a gente tem uma demanda,
+[LOCUTOR 17]: então, de
+[LOCUTOR 21]: compra dos nossos medicamentos. O que acontece?
+[LOCUTOR 17]: [LOCUTOR 13]: gente tem a compra e a gente tem a saída também deles. Só que a gente não tem um controle de estoque efetivo.
+[LOCUTOR 21]: Hoje a gente tá fazendo controle manual desses medicamentos, só que como ele tá tendo muita
+[LOCUTOR 17]: grande
+[LOCUTOR 21]: rotatividade, a gente não tá conseguindo controlar de fato todos esses
+[LOCUTOR 17]: medicamentos.
+[LOCUTOR 21]: Então, tem paciente
+[LOCUTOR 17]: que leva, sei
+[LOCUTOR 21]: lá,
+[LOCUTOR 17]: 15
+[LOCUTOR 21]: caixas do mesmo medicamento que
+[LOCUTOR 17]: a gente
+[LOCUTOR 21]: faz a
+[LOCUTOR 17]: compra
+[LOCUTOR 21]: semanalmente, ou
+[LOCUTOR 17]: mensalmente.
+[LOCUTOR 21]: O que a gente quer é estipular, mais ou menos, o quanto que a gente tá tendo de gasto mensal, ou então semanal, pra gente conseguir ter um controle de quantas unidades estão tendo
+[LOCUTOR 17]: sa
+[LOCUTOR 11]: durante aquele mês. E quanto que a gente precisa comprar, de fato, pra não ter um estoque além do que é o necessário, e também não ter dependendo do caso, faltando. Existem algumas situações que falta medicação e o paciente precisa comprar. que pediu reembolso pra gente, então a gente vê mais vantagem em ter estoque pra poder fornecer isso pro paciente. A gente precisa ter esse controle de estoque dos medicamentos, e não de fato dos valores, enfim, mas da quantidade que a gente precisa naquele
+[LOCUTOR 1]: mês. [PESSOA]. A [PESSOA], eu só não entendi muito bem, aí você falou que é da área farmacêutica, é isso? [PESSOA], tá travada? Travou, tem o computador dela?
+[LOCUTOR 21]: Travou, ela vai trocar aqui do computador para o celular. Mas não, quem é da farmácia é a [PESSOA]
+[LOCUTOR 1]: comigo
+[LOCUTOR 21]: e a [PESSOA] é do estoque de kits. Ela é mais de um setor, digamos, mais laboratorial.
+[LOCUTOR 1]: Bom, eu conversei com o [PESSOA]... Boa tarde, pessoal. Desculpa a falta de educação. Eu estou no time de engenharia de valor hoje. A gente atua aí fornecendo um apoio para o time comercial, mas tecnicamente. Então, a gente entende as necessidades do cliente, monta o escopo para fazer uma entrega e uma implantação de acordo com o processo de cada um dos nossos clientes. Eu conversei com o [PESSOA] previamente para entender exatamente como que seria esse controle de vocês, porque eu fiquei preocupado no sentido de ter que atender algo relacionado ao [EMPRESA], que é a parte da operação da saúde. E aí ele me explicou que não, que vocês querem ter um controle de estoque básico, onde controle entrada e saída, como a [PESSOA] falou, saber quando tem que repor esse estoque para não faltar, Então, aí eu fiquei mais tranquilo. Falei, não, aí a gente tem a solução super aderente para mostrar para vocês. Eu entendi que vocês fazem um controle bem manual. 
+[LOCUTOR 19]: que é o
+[LOCUTOR 1]: tipo de controle, [PESSOA]? É através de planilhas? Vocês usam Excel para controlar estoque? Como que vocês controlam
+[LOCUTOR 21]: hoje
+[LOCUTOR 1]: isso?
+[LOCUTOR 21]: A farmácia hoje, ela está controlando da forma do estoque com uma planilha do Excel do próprio [EMPRESA].
+[LOCUTOR 1]: Então, a
+[LOCUTOR 21]: gente gera um formulário onde a gente escaneia um QR Code e vai direto para o Forms do [EMPRESA], onde a gente responde qual foi o paciente que utilizou a medicação, qual é o estudo que a gente está fazendo, qual os pacientes que fazem parte do estudo, qual a medicação que ele utilizou, qual a quantidade que ele está utilizando também e qual o dia que ele utilizou. Nisso, a gente tem ali a planilha automática gerada por esse Forms, para a gente poder ter um controle mais ou menos do que foi feito. Mas o estoque efetivo mesmo a gente tá fazendo manual. Então a gente, uma vez por semana, olha ali. Ai, tem tantos... Então, essa semana eu vou ter 25 pacientes. que vocês vão utilizar para esta aula. Eu vou, então, ter uma quantidade ali, ok, para poder atender esse paciente, caso tenha outro paciente que precise usar, eu preciso ter ainda esse estoque ali disponível para
+[LOCUTOR 1]: ele.
+[LOCUTOR 21]: Mas é mais ou menos
+[LOCUTOR 1]: isso. Mas essas informações do formulário, vocês têm intenção que isso tenha, vocês têm o desejo que exista isso no sistema, ou ainda vocês querem manter um controle à parte
+[LOCUTOR 21]: disso? Não, seria perfeito se tivesse dentro do sistema. Por exemplo, o paciente [PESSOA], utilizou tal medicação no dia tal e daí essa medicação debaixo do nosso estoque. Eu tenho um total de sete unidades hoje no sistema e se a [PESSOA] utilizou um vai baixar para seis. Esse é o nosso interesse.
+[LOCUTOR 1]: Entendi. Foi aí que eu fiquei preocupado nesse sentido porque daí não seria o controle do produto em estoque em si mas também do consumo por paciente.
+[LOCUTOR 21]: Eles
+[LOCUTOR 1]: teriam que ter um consumo por paciente. Isso, até sugerir para o [PESSOA], da gente talvez atribuir um centro de custo para cada paciente, para poder ter essa visão aí de qual paciente. Hoje são quantos pacientes que vocês atendem, mais ou
+[LOCUTOR 21]: menos? Não tenho nem noção. 150? Não passa
+[LOCUTOR 1]: de mil,
+[LOCUTOR 6]: será? Desculpa, eu tinha comentado que era em torno de 300 kits por mês, né? Era,
+[LOCUTOR 21]: mais ou menos isso.
+[LOCUTOR 6]: Então seria aí 300 pacientes ou cada paciente ele leva mais de um
+[LOCUTOR 21]: kit? Não, cada paciente pode levar mais de um kit na mesma semana.
+[LOCUTOR 6]: Então são menos de 300 pacientes por mês, até o
+[LOCUTOR 21]: momento? Sim, menos de 300.
+[LOCUTOR 1]: E os kits, eles são variados, acredito eu, cada paciente deve levar um kit diferente, né? Isso,
+[LOCUTOR 21]: aí no caso a minha parte seria, cada kit tem uma nomenclatura, né, conforme a visita que o paciente está fazendo, então eu precisava ter um montante de kits que eu tenho, né, nesse estoque, e aí conforme a visita do paciente a gente dava baixa conforme visita, não necessariamente por paciente, diferente da farmácia, que eles precisam, né, ser registrado por paciente, a gente é pelo estudo, pela visita. Então, tem um paciente que vem duas, três vezes na semana, que às vezes utiliza kits diferentes, mas é o mesmo paciente.
+[LOCUTOR 1]: Entendi. Então, além de ter kits diferentes, o mesmo paciente pode ter, levar kits diferentes
+[LOCUTOR 21]: também, né? Sim.
+[LOCUTOR 1]: Entendi. Eu tenho que pensar em um jeito de trazer isso para o sistema, porque no padrão que a gente atende, eu teria um controle de estoque padrão, de entrada e saída de matéria. materiais, independente, eu posso ter um requisitante, mas esse requisitante, ele teria que ser um usuário do sistema, se a gente fosse pensar de uma forma padrão, né? Aí, o que que eu pensei, talvez, em utilizar, como eu falei, um centro de custo por paciente, né? Ou poderia também controlar um armazém por paciente, porque assim, o sistema, ele controla estoque por, não, mas aí não ficaria legal,
+[LOCUTOR 21]: teria No caso, não daria para
+[LOCUTOR 1]: ser.
+[LOCUTOR 21]: No caso, o centro de custos seriam os subgrupos. Mas é como se fosse isso, né? Medicação tal para o centro de custos do paciente [PESSOA] E aí, para nós, seria mais ou menos a mesma coisa. A gente só precisaria mudar a nomenclatura. Não sei se seria possível, né? Poderia ser também o subtipo do...
+[LOCUTOR 1]: É, os centros de custos, eles podem ter níveis diferentes, tá? Eu posso criar subníveis dentro de cada centro de custos. E aí, por exemplo, o seu é, o da [PESSOA] é farmácia, é isso? Então teria o centro de custo farmácia e abaixo da farmácia eu teria pacientes e aí para cada centro de custo abaixo desse seria um paciente diferente. Da mesma forma o seu, [PESSOA], que daí seria
+[LOCUTOR 21]: parte
+[LOCUTOR 1]: de kits, né? Qual que é o seu setor? Qual que é mesmo? Desculpa.
+[LOCUTOR 21]: É do laboratório
+[LOCUTOR 1]: que a
+[LOCUTOR 21]: gente chama.
+[LOCUTOR 1]: um centro cústodo sintético laboratório e um farmácia. E aí tem paciente para cada um desses aí. Eu poderia pensar algo nesse sentido
+[LOCUTOR 21]: para
+[LOCUTOR 1]: não ter que customizar, sabe? Mas vamos lá, deixa eu mostrar um pouco para vocês como que o sistema trabalha
+[LOCUTOR 21]: esse
+[LOCUTOR 1]: controle para vocês também verem se é aderente ou não,
+[LOCUTOR 21]: né?
+[LOCUTOR 1]: Entender se isso faz sentido para vocês ou não. Bom, o sistema ele é todo modular, tá? mas totalmente integrado um módulo com outro. Então significa que se eu incluir uma nota fiscal
+[LOCUTOR 21]: com
+[LOCUTOR 1]: uma entrada de um
+[LOCUTOR 21]: determinado
+[LOCUTOR 1]: produto ou medicamento eu vou estar alimentando o meu estoque ali de forma automática. E o sistema ele também ele é multi empresa multifilial. O que isso significa que vocês podem ter N empresas aí e se vocês quiserem gerir essas empresas dentro dos módulos é possível só alternando entre uma empresa e
+[LOCUTOR 21]: outra.
+[LOCUTOR 1]: Porém, eu consigo ter também uma visão consolidada das informações, tanto para a empresa quanto para filiais. Atualmente, a gente tem esses módulos que são do back office proteus, então tem ativo fixo, compra, o ativo que vai cuidar da parte patrimônio, os bens patrimoniais, parte de compras, controle
+[LOCUTOR 21]: de
+[LOCUTOR 1]: estoque e custos, o faturamento financeiro, gestão de pessoal, livros fiscais, vários módulos, são aqui ao todo. aproximadamente 90 módulos e aí nós temos ainda a possibilidade de ter módulos especiais para tratar processos especiais dos clientes. Então, vocês conseguem praticamente construir um sistema dentro desse próprio sistema da [EMPRESA], sem nenhum problema. Ele te dá essa flexibilidade. Bom, vamos pensar num processo aqui. Então, vou entrar no módulo de estoque, onde nós temos aqui os cadastros básicos. Então, eu tenho cadastro aqui cadastro de produtos, o cadastro de como eu quero fazer a movimentação. Então, tenho movimentações externas e financeiras. Então, movimentações internas, eu tenho as entradas e as saídas de estoque. Tenho como fazer um controle de endereçamento. Então, se vocês organizam os medicamentos hoje em ruas, prateleiras, vocês conseguem ter um controle de estoque Tem cadastro contábil, então lá o centro de custo que eu falei para vocês. A gente teria como criar esses níveis aqui dentro dos centros de custos e à medida que for fazer a entrada, a movimentação de estoque, eu informo para qual centro de custo eu quero movimentar. Então, está vendo? A gente tem o sintético e tem o analítico. Tendo que eu tenho níveis diferentes aqui, eu posso criar nesse sentido. E aqui, na descrição, eu colocaria o nome do paciente. Então, cada vez que vocês forem ter um paciente novo, você poderia entrar aqui, incluir. Não são muitas informações que eu teria que preencher. Então, o código do centro de custo, a gente pode tratar para ele trazer automaticamente, falar que é um centro de custo analítico e aqui iria o nome do seu paciente. Ah, o paciente não faz o programa, não vai mais receber, eu posso bloquear ele, tá vendo? Eu bloqueio ele e não movimentaria mais nada para ele. Então, seria uma das formas aí, mas a gente pode pensar em outra coisa também futuramente. Está vendo? Então, aqui dentro desse centro de curso de diretoria, eu tenho dois analíticos, o [EMPRESA] e o [EMPRESA]. Então, a ideia é essa, tá bom? Aí tem outros
+[LOCUTOR 21]: cadastros
+[LOCUTOR 1]: de fornecedores,
+[LOCUTOR 21]: que é
+[LOCUTOR 1]: muito
+[LOCUTOR 21]: importante. Cadastrando uma vez esse... essa pessoa, esse paciente, ele poderia ser utilizado para esses dois subgrupos, farmácia e laboratório?
+[LOCUTOR 1]: Sim,
+[LOCUTOR 21]: sim,
+[LOCUTOR 1]: para
+[LOCUTOR 21]: os dois,
+[LOCUTOR 1]: tá? Pode ser utilizado tanto
+[LOCUTOR 21]: para um quanto
+[LOCUTOR 1]: para
+[LOCUTOR 21]: outro. É, porque daí não precisa as duas
+[LOCUTOR 1]: alimentarem
+[LOCUTOR 21]: a plataforma. É
+[LOCUTOR 1]: isso
+[LOCUTOR 21]: mesmo,
+[LOCUTOR 1]: não tem problema. Bom, aí nós temos o cadastro de fornecedores, né, que também é muito importante para quando a gente fala de entrada de nota, tá? Temos aqui as movimentações, então o cadastro de movimentações internas e fiscais, as movimentações internas é o que eu falo que é entrada e saída, transferência, Então eu cadastro esses tipos de movimentos internos. E as fiscais são os tipos de movimentações das notas. Então, de um tipo de entrada e saída de nota fiscal, eu vou cadastrar ali toda a parte tributária, toda a parte fiscal, se bem que hoje a gente tem um outro cadastro, que é o cadastro de configurador de tributos, que é mais atual e mais completo para essa finalidade. Que é quando eu entrar com a nota, o sistema automaticamente a parte tributária daquela nota para mim de forma automática. Então a gente entende como tem que ser feito isso e já deixa pronto para vocês poderem fazer uma entrada de uma nota. Então o que isso significa? Eu vou fazer a entrada de nota. Essa nota ela vai atualizar o estoque? Sim ou não? Eu vou aqui. Ela vai gerar duplicata, ou seja, eu vou pagar o fornecedor. Quantas vezes eu vou pagar esse fornecedor? Eu confirmo aqui que eu quero gerar duplicata para essa nota. E aqui a parte tributária dela, o que incide de impostos ou não. Então, vocês percebem que eu tenho vários pré-cadastros que antecedem a toda aquela parte de movimentação do estoque. E aí, uma vez que eu tenho esse cadastro pronto, vamos imaginar o seguinte, eu tenho aqui o meu o meu cadastro de a minha consulta de produtos que eu tenho cadastrado. Aí eu quero consultar o saldo de estoque desses produtos. Tem várias formas de consultar o produto no sistema. Eu posso simplesmente localizar um determinado produto e lá no produto e apertar uma tecla e ele me mostra o saldo na tela. Eu tenho relatórios que vão me trazer essas informações de saldo por grupos de produtos por centros de custo por armazéns, porque o sistema é multi armazéns, então consigo ver o estoque de vários armazéns diferentes. E tem essa forma que eu estou mostrando aqui para vocês, que é a consulta do produto a produto. Por que eu quis entrar nessa aqui? Porque é uma consulta mais completa. Ela vai me trazer uma série de divisões aqui. Deixa eu carregar aqui para vocês entenderem. Bem pequenininha para vocês. Deixa eu dar uma ampliada aqui.
+[LOCUTOR 21]: Uma coisa só, nessas informações que a gente coloca do produto, no caso, a gente consegue botar informações de lote, validade também? Tudo isso
+[LOCUTOR 1]: consegue? Aqui, o que você me perguntou, por exemplo, se eu vou controlar o lote desse produto, eu marco aqui... Cadê, cadê, cadê? Aqui, controle de endereço, não... Tem um campinho aqui, que é rastreabilidade. Não sei se vocês estão vendo. Aqui, rastro. Então, ele vai dizer que eu estou em modo visualização e ele não abre. deixa eu clicar na setinha, mas é se eu controlo o lote ou não. Então, eu marcaria aqui que sim, que eu vou controlar a rastreabilidade. E aí, quando eu fiz a entrada da nota, eu sou obrigado a informar qual é aquele produto, qual é a validade, e aí o sistema passa a controlar essas informações. Então, aqui eu tenho uma outra informação muito importante, o ponto de pedido, que foi o que a [PESSOA] comentou. Quando que eu tenho que comprar de novo? Então eu defino aí no ponto de pedido. Posso inicialmente definir isso manualmente. Então eu venho aqui, digito qual que é o meu ponto de pedido, que é o quê? É o meu tempo de reposição versus o meu consumo. Então eu tenho ali como saber mais ou menos quanto tempo demora para eu consumir quantos produtos. Aí é o meu ponto de pedido. E o sistema também faz um cálculo, mas para isso eu preciso ter um histórico de movimentação. de pelo menos aí uns seis meses. Então, depois que eu tiver bastante movimentação, eu posso pedir para o sistema calcular automaticamente para mim o ponto de pedido. E aí vai ajustando isso aí. O que acontece aqui? Quando eu tenho um ponto de pedido definido, eu peço para o sistema me sugerir compras. Ele vai sugerir, baseado no meu prazo de entrega, se esse tipo de prazo é mensal, diário, semanal, quinzenal, ou dias, meses. E aí eu coloco aqui qual é esse prazo de entrega. O sistema vai usar todos esses campos aqui como variáveis para essa informação. Então, lote econômico, qual que é o melhor custo-benefício, em termos de quantidade, para eu repor esse estoque? Quanto tempo demora para esse produto chegar desde o momento que eu faço uma solicitação até a hora que eu dou entrada na nota? Quantos produtos vem em uma embalagem? Então, ele usa todos esses campinhos de informação para Quando ele compra para você de forma automática, ele sugerir a quantidade exata. E isso também impacta naquela questão de ruptura de estoque, para que nunca falte estoque. Ele vai utilizar essas variáveis. Eu vou clicar aqui em expandir todas aqui, para a gente ver aqui, ele está expandindo aqui essa árvore. Então, por exemplo, esse produto canaleta, quanto que eu tenho dele em estoque? Ele traz para mim aqui as quantidades, está vendo? E aí eu posso ver por armazém lembra que eu falei que são múltiplos armazéns. Aí ele vai trazer para mim o quanto que eu tenho atualmente qual que é o custo. Então financeiramente eu tenho lá sei lá mil canaletas quanto financeiramente parado na empresa dessas mil canaletas. Aí é o meu custo. Então é o saldo em valores. Ele traz também saldo por endereço aqui e também o que eu tenho empenhado o empenho é bacana no seguinte sentido. Imagina assim, a [PESSOA] fez lá uma transição para o estoque. aqui, para entregar aquele medicamento para um determinado paciente, certo? E aí, desculpa, qual que é o nome de quem tá do seu lado aí, [PESSOA]?
+[LOCUTOR 21]: É a [PESSOA], [PESSOA] e a [PESSOA].
+[LOCUTOR 1]: Então, aí vamos pôr, aí a [PESSOA] foi e fez um, fez uma requisição do mesmo produto, só que como a [PESSOA] já tinha feito anteriormente, reservou, ou seja, E aí a [PESSOA] não consegue requisitar aquele mesmo item porque já está empenhado para não entregar. Ou seja, não tem o risco de vocês requisitarem algo que esteja empenhado, entendeu? Para não estar ali e a pessoa ir até lá retirar e não ter esse produto, por exemplo. E aí nós temos aqui um facilitador que é para a entrada da nota. Então é a amarração do produto versus fornecedor, ou seja, Eu tenho um fornecedor que me entrega item A, [EMPRESA] e C. Daí eu tenho outro fornecedor que me entrega esses mesmos. Quando eu for fazer uma compra, que eu for gerar uma cotação, o sistema vai pegar essa informação e já sabe com quais fornecedores tem que cotar. Então isso também agiliza o processo de compras. Aqui ele mostra também quais solicitações de compras eu já tenho vinculado a esse produto, quais os pedidos de compras ou pedidos de venda. que eu já tenho de solicitação armazém para aquele produto,
+[LOCUTOR 21]: tá?
+[LOCUTOR 1]: Então, aqui vocês podem ver que é uma consulta que eu não preciso ficar saindo de tela em tela para fazer a busca das informações, ele já traz tudo numa única tela, todas as consultas necessárias.
+[LOCUTOR 21]: [PESSOA]?
+[LOCUTOR 1]: 
+[LOCUTOR 5]: não. Eu vi na tua apresentação que tu fala bastante em compra, em nota, em custos, mas esse controle financeiro, ele não é necessário para a gente. O que a gente precisa é um sistema que realmente nos diga estoque, quando que nós temos aquele produto e quando que ele sair, e validade. Essa
+[LOCUTOR 21]: parte financeira, todo esse controle, a gente faz por fora, até porque como a gente está lidando com sponsors, a gente faz liberação de invoices de acordo com como eles pedem, então a gente nem poderia usar sistemas assim específicos, a gente A gente fala também de vários sponsors dentro de uma mesma plataforma então não tem como a gente unificar tudo num sistema único. Então essa parte financeira não é do nosso interesse.
+[LOCUTOR 1]: 
+[LOCUTOR 10]: é muito importante você ter falado.
+[LOCUTOR 21]: E outra coisa também, a gente estava dando uma olhada nos parece uma tela um pouco cheia de informação, entende? E eu não sei se entrar tanta informação nos ajudaria com o que a gente já faz
+[LOCUTOR 1]: hoje.
+[LOCUTOR 21]: Talvez, se a gente comparar com o que a gente está colocando numa planilha hoje, alimentando no Excel, não é vantajoso essa plataforma. A gente ainda não identificou alguma melhoria que nos daria mais tempo para fazer outras coisas. O que a gente tem em mente, até na outra conversa que a gente conversou com o [PESSOA], nem sei se tem como, mas o que a gente pensa em uma coisa mais automatizada, por exemplo, um BIP. Então, chegou uma caixa cheia de kits, várias caixinhas com vários tubinhos dentro, a gente BIPa essa caixinha e essa informação automaticamente já entra no sistema. Então, o que a gente precisa fazer é diminuir a quantidade de processos que a gente tem hoje.
+[LOCUTOR 1]: 
+[LOCUTOR 20]: manuais. Processos manuais, exato. Porque entrar numa planilha, estoque, quantidades, validades, vencimentos, tudo isso a gente já faz hoje. O que a gente precisa é de algum sistema mais automatizado. Tá. Bom, para eu automatizar a entrada no estoque, eu pensar que a gente poderia... Essa entrada, ela teria que ser manual, né? Por que eu falo manual? Porque eu tenho aqui a minha movimentação interna. Imagina o seguinte, eu vou alimentar meu estoque agora.
+[LOCUTOR 21]: Então
+[LOCUTOR 1]: chegaram os produtos na expedição ali da sua empresa ou no laboratório, na farmácia, enfim. Eu vou incluir aqui um movimento. Então vou fazer uma entrada de estoque. Não estou considerando nota fiscal, estou fazendo uma entrada manual. Obrigatoriamente eu tenho que informar esse campo que eu tenho que dizer para o sistema como que eu vou fazer a entrada desse item. Vou colocar aqui que é uma devolução simples. Quando eu falo devolução é porque eu estou entrando com esse produto dentro do estoque. Posso atribuir um centro de custo aqui e a data. Aqui entra a parte do BIP que você falou. [PESSOA], então eu posso chegar aqui no produto. [LOCAL] aqui no campo, vou lá com o meu leitor de código de barras e BIP o código de barras daquele item. Quando eu faço isso, ele vai carregar para mim essas informações. Ele vai carregar o código do produto, a unidade de medida e eu posso também já trazer preenchido o que eu deixei lá no caso produto pronto. Então aqui ó, esse aqui seria o nome do seu produto. Eu posso trazer esse campo aqui para o lado do código sem problema, isso é personalizável. Não se preocupa com a quantidade de campos na tela, a gente consegue diminuir isso e deixar só o que vocês precisam. Atualmente o nosso sistema atende 12 segmentos, por isso que você está vendo muita informação na tela. Bom, fui lá e li o código de base, vou colocar a quantidade. Bom, aqui tem 100 itens. [PESSOA], tem como eu bipar a caixinha e ele já trazer para a minha quantidade? Tem. Então, quando eu fizer isso, ele já pode automaticamente, se tiver essa informação no código de base, ele já vai trazer preenchido para a minha quantidade. Pode ser um código de base ou um QR Code. Eu posso ler tanto um quanto outro. E aí ele vai preencher. Vou pro próximo item. Põe a setinha pra baixo aqui. Ele tá pedindo valor porque eu peguei uma movimentação valorizada aqui. Deixa eu ver se eu pego uma que não é valorizada. Pegar uma outra movimentação. Entrada, retorno. Aqui ó, evolução de matéria priva. Essa aqui. Então vamos lá, aí põe o setinha pra baixo, dou um enter aqui, pum, leitor de código de base. Ele vai preencher outro produto pra mim aqui. Vou pegar esse cara aqui. Vou lá, tem a quantidade. [PESSOA] para baixo e assim sucessivamente. Vou alimentando dessa maneira. Quando eu salvar aqui, ele vai gerar para mim essa movimentação. Ele vai gerar uma entrada no estoque para mim desses itens. Então, eu entrei esses dois itens aqui. Aí ele já alimentou o estoque para mim com esses itens. Seria isso a movimentação primeira de entrada. Chegou um paciente, eu entreguei um kit para ele. Como que eu faço? Eu vou vir aqui no armazém e vou fazer a baixa de uma pré-requisição. Então, aqui é onde eu faço a saída do estoque. Ou também eu posso fazer manualmente lá por aquela mesma tela que eu mostrei para vocês, só que ao invés de eu incluir um movimento de entrada, eu vou incluir um movimento de saída. Então vem aqui, aí entra o que eu falei do centro de custo. Vamos supor. Eu vou fazer uma inclusão. Aí eu vou vir aqui. O tipo de movimentação é que determina para mim o que é entrada e o que é saída. Os códigos até 500, eles são entrada. De 500 para baixo são saídas. Então, por exemplo, requisição. Vou fazer essa mesma aqui. Aí entra aqui o [LOCAL] que eu falei para vocês. Aqui viria o nome do paciente. Então eu vou pesquisar aqui pela descrição, que seria o nome do paciente, o nome de quem está retirando aquele material. E aí eu venho aqui, escolho, e aí mesma coisa. Vou aqui, vou lá com o leitor de código de base no produto que está sendo requisitado. Ele vai vir para mim aqui. Ah, quero saber quanto que eu tenho de saldo aqui. Eu venho aqui, dou um F4 no teclado, ele traz pra mim quanto que eu tenho de saldo disponível, tá vendo? [PESSOA] disponível, saldo atual, se tem empenho, aquela reserva que eu falei pra vocês. Aí eu consigo vir aqui e pôr a quantidade. [PESSOA], kit, como é que funciona? Mesmo conceito. Eu vou escolher aqui o kit, quando eu fizer a saída, ele dá baixa nos itens que estão amarrados a esse kit. Então, se eu fizer uma saída aqui de 100, Ele vai tirar para mim de estoque. aquele 100 que eu fiz a entrada. Aí eu só vou salvar aqui. Pronto, eu já movimentei o meu estoque tanto entrada quanto saída. Seria mais ou menos nesse sentido. É algo nesse sentido que vocês estão buscando?
+[LOCUTOR 21]: Só uma dúvida, [PESSOA], daí o relatório a gente pode tirar independente do período? Mês, semana? Pode,
+[LOCUTOR 1]: pode. Relatórios, vocês têm aqui no estoque, eu tenho vários relatórios, tá? Por exemplo, o relatório de rastreabilidade, para eu saber quantos que estão... Não, esse aqui não é o do lote,
+[LOCUTOR 21]: não,
+[LOCUTOR 1]: pera aí.
+[LOCUTOR 21]: Um relatório para a gente saber qual seria o estoque atual, eu acho, mas se eu for mais, a gente vai usar assim, tipo, ah, passou a semana inteira e a gente tira um relatório para ver quanto de kits eu usei, né, de tal estudo, [EMPRESA], Enquanto eu ainda tenho o estoque.
+[LOCUTOR 1]: Então, aí vocês poderiam tirar um relatório como esse aqui, um [PESSOA] que vai trazer todas as entradas e saídas dos produtos que vocês colocarem aqui no filtro do relatório. Vou pegar aqui para vocês verem. Eu tenho aqui os parâmetros, então eu coloco de qual produto até qual produto que eu quero saber os saldos. Então, deixa eu escolher aqui mais ou menos dentro daquele que a gente fez, que foi esse aqui. Vou fazer só desse produto, para não demorar muito. Aqui a data, então qual é o período de movimentação que eu quero. Vou pegar desde o começo de janeiro até hoje. Aí ele pergunta o tipo de produto, então vou colocando os filtros aqui, os armazéns que foram movimentados, vou colocar aqui de branco, às vezes isso significa que eu quero todos. Então eu faço o filtro aqui de acordo com a minha necessidade e eu vou imprimir o relatório. Aí ele traz aqui essa visão, deixa eu ampliar aqui para vocês verem. Feio demais, espera aí. Deixa eu fechar aqui. Pronto. Então eu tenho aqui, qual foi o documento? Então, vocês viram lá na hora que eu entrei para fazer a inclusão, ele tinha um número de documento, ele traz aqui para eu poder verificar qual que foi a movimentação realizada. Então qual que era meu saldo inicial? Ele vai trazer aqui ó, ah, seu saldo inicial era 9 e aí movimentou, né? No dia 2, o que que foi? Foi uma entrada, então no dia 2 teve uma entrada de 1, no dia, aí no outro dia aqui ó, no mesmo dia teve outra entrada de 5, então o saldo total 6, aí eu tive uma saída, não, ele não tem movimentação de saída esse produto. Aqui a movimentação de saída que nós fizemos. Então aqui eu fiz outra entrada de 100. Lembra que hoje eu fiz a 9 do 2, eu fiz uma entrada de 100 itens. No mesmo dia eu fiz uma saída de 100 itens. Então o saldo total do dia 6 e o saldo total dentro desse período 106. Então vocês conseguem acompanhar dessa forma. Isso é um dos relatórios, [PESSOA]. Eu posso ter outros relatórios referente à movimentação de estoque. que vai trazer outros tipos de visões. E tem também a possibilidade de vocês criarem os próprios relatórios de acordo com a necessidade de vocês, que são essas consultas que a gente chama aqui de Smart View. Então aqui eu também já tenho de movimentações de estoque, olha quantos relatórios eu tenho. Está vendo? Então aqui eu tenho um resumo de entradas e saídas. Ele vai trazer para mim uma visão de todas as entradas e saídas por produto, por grupo de produtos. Então, para consulta é bem rico de informação também. Eu tenho visão de dados e você vê a diferença. Vou mostrar para vocês a diferença daquele relatório que eu tirei, que é uma listagem simples para essa consulta SmartView, que aqui ele traz uma visão de dados ou tabela dinâmica. Então, vamos ver essa visão de dados aqui. Na visão de dados, ele é diferente porque eu consigo tratar os dados, manipular os dados, na verdade. Eu consigo criar filtros, fazer pesquisas. Ele traz uma visão mais personalizada, vamos dizer assim. Mesmo filtrar o que eu quero enxergar. Ele vai trazer aqui, deixa eu ver, produto. Vou colocar aquele mesmo produto lá. Vou fazer uma busca aqui. produto aqui ó, o 9. Data, vou pegar até hoje. [LOCAL] considerar atual, é isso aqui. Tá vendo? Ele me traz a mesma visão que [LOCAL], então agora é uma visão, deixa eu ver se ele traz quantidade, essa aqui ele tá trazendo, mas a visão de valores, tá vendo? Não é de quantidade, sim de valores. Mas a diferença que eu queria mostrar pra você dessa consulta pra outra, ó, é que eu tenho filtros, tá vendo? Eu consigo filtrar, então imagine que eu tenho não só o produto 9, eu tenho 100 diferentes aqui, mas aí eu quero filtrar só a movimentação do produto 9, eu consigo vir aqui, marcar ele, pra ele apresentar pra mim só o do produto 9. Então, imagina o seguinte, para N cenários, eu posso ver só as movimentações internas de entrada, só as de saída. Se é um relatório de... Eu posso vir aqui e filtrar pelo centro de custo. Então, eu crio uma coluna aqui com centro de custo e vejo todas as movimentações daquele paciente, quais os produtos que ele movimentou. Então, eu posso criar N filtros aqui nessa visão de dados. E esses relatórios do SmartView, vocês podem configurar de acordo com a necessidade de vocês. Não tem nenhum problema. E aqui a gente tem dashboard também para consultar o estoque de uma forma mais gerencial. Ele vai trazer aqui. [LOCAL], se não tiver feito para vocês, pode falar. não quero ficar tomando também o tempo de vocês aí com coisa que não faz sentido, né? Isso aqui é o que eu entendi que atende vocês, mas se vocês falarem que não, tudo bem, não tem problema, a gente tenta dar uma outra visão pra vocês, tá bom?
+[LOCUTOR 21]: É, do meu ponto de vista, eu acho que continua ainda mais complexo do que a gente imaginava, do jeito que a gente queria, na verdade. Entendi. algo que vai poder controlar de fato, mas não tão robusto quanto tu tá apresentando isso pra gente, tá? Sim, pode ter locais que se interesse, sim, por todas essas estruturas, mas acredito que é
+[LOCUTOR 1]: bem
+[LOCUTOR 21]: complexo e bem incompleto também, mas o nosso cenário atual, pra [EMPRESA] nesse nosso controle de estoque, seria interessante algo menos... Mais simples. É, mais simples, no
+[LOCUTOR 1]: caso. É como eu falei para vocês, o sistema está preparado para atender 12 segmentos diferentes. Então imagina o seguinte, a gente tem desde construção civil. Imagina assim, você controlar o estoque de uma construção. Você tem de hotel, você tem de hospitais, você tem de educacional. Então muitas, muitos segmentos. Então o sistema ele é robusto mesmo porque ele tem que controlar em vários aspectos. Agora, você comparar com uma planilha, hoje, como vocês controlam, é muito simples. Você vai lá numa linha, digita alguma coisa e
+[LOCUTOR 21]: está tudo
+[LOCUTOR 1]: bem. Só que depois, o que eu faço com essa informação? Como que eu vou gerar gráficos? Como que eu vou gerar consultórios? Então, a gente sai do operacional e passa a ter uma visão mais gerencial. Só que para eu ter essa visão gerencial, eu preciso dessas etapas anteriores. Então, é nesse sentido que o sistema é mais robusto, porque eu consigo crescer a medida que o meu negócio cresce
+[LOCUTOR 21]: também.
+[LOCUTOR 1]: Então é nesse sentido. Então assim vocês estão procurando algo operacional mais simples. A solução a gente consegue simplificar pra vocês fazerem as entradas e movimentações, mas dentro disso que eu apresentei pra vocês. Entendeu?
+[LOCUTOR 21]: Entendido. Então tá, acredito que era mais pra ver como era o funcionamento do sistema. Tirou algumas dúvidas nossas, apresentou bastante coisa até. Mas não acredito que é isso, não. Eu acho que é isso, [PESSOA]. Te deu pra ter uma boa ideia de como é que é, como é que funciona a plataforma de vocês. E como a [PESSOA] disse, talvez seja uma plataforma tão complexa e tão... Detalhada. É, tão... Com essa parte de controle financeiro que, num momento, não é o que a gente tá buscando mesmo,
+[LOCUTOR 1]: então...
+[LOCUTOR 21]: Eu acredito que mesmo que a gente consiga adaptar ela para um sistema mais simples talvez o custo ainda continue sendo mais
+[LOCUTOR 1]: alto. Qual que é o valor de investimento que vocês têm hoje para um sistema que vocês esperam.
+[LOCUTOR 21]: Então a gente não tem um valor determinado a gente está fazendo algumas avaliações mas
+[LOCUTOR 1]: a gente
+[LOCUTOR 21]: tem
+[LOCUTOR 1]: um aproximado por exemplo [PESSOA] eu quero gastar 3 mil por mês com o sistema quero gastar 1.500 com o sistema vocês não tem nenhum perto
+[LOCUTOR 21]: disso? Então, nós já fizemos entrevistas, não, nós já fizemos reuniões com outras duas empresas e o valor que eles nos trouxeram foi bem abaixo de R$ 1.000,00 por
+[LOCUTOR 1]: mês. Tá, entendi,
+[LOCUTOR 21]: entendi,
+[LOCUTOR 1]: tá bom. [LOCAL], quer falar alguma coisa, complementar?
+[LOCUTOR 6]: Não, tranquilo. [PESSOA], a gente não tem nenhum produto um pouco
+[LOCUTOR 21]: mais
+[LOCUTOR 6]: simples para atender essa
+[LOCUTOR 21]: demanda.
+[LOCUTOR 1]: [LOCAL] tem o nome. A gente tem um sistema que é bem simples e o mesmo. Agora eu vou ver direitinho aqui de seu espaço e daí talvez o pessoal fazendo uma apresentação para
+[LOCUTOR 6]: ela faça
+[LOCUTOR 1]: mais ou se for algo personalizado pode confluir e também pode de repente desenvolver um formulário no fluir os processos delas ali. E aí também tentar ir nessa linha do Fluig.
+[LOCUTOR 6]: Não sei
+[LOCUTOR 1]: se é questão
+[LOCUTOR 6]: de
+[LOCUTOR 1]: licenciamento, de habilitar tal, se seria dentro desse valor que elas estão falando. Abaixo de mil reais a mensalidade, a gente tem que ver direitinho aí.
+[LOCUTOR 6]: É isso que tinha que ver ficar com vocês, porque assim, pessoal, abaixo de mil reais é muito difícil a gente ter uma solução que vai entregar as funcionalidades aí para vocês terem esses dashboards, para vocês conseguirem fazer aí uma gestão mais estratégica do que vocês querem, a gente tá entendendo que é mais operacional. Então eu vou aguardar de repente o [PESSOA] aí para ver se ele consegue encontrar porque a
+[LOCUTOR 1]: gente tem um
+[LOCUTOR 6]: portfólio. Eu
+[LOCUTOR 1]: acho que ele eleva o nome do sistema, eleva alguma
+[LOCUTOR 6]: coisa assim.
+[LOCUTOR 1]: que
+[LOCUTOR 6]: é da
+[LOCUTOR 1]: Tons também, que é mais enxutinho.
+[LOCUTOR 6]: [LOCAL]. A gente vai verificar se tem alguma outra solução que tenha mais aderência no cenário de vocês. O [PESSOA] citou o Fluig, que o Fluig é uma plataforma onde a gente consegue criar, monitorar e automatizar esses workflows que são desenvolvidos de acordo com a realidade do cliente. Aí você consegue realmente fazer uma gestão, colocar todo mundo dentro do mesmo ambiente, mas também ele tem um custo Também não é abaixo de uns 2 mil, assim, por mês. Eu imagino. Mas, enfim, pelo menos a gente descartou a questão aqui do [LOCAL], que foi o que eu tinha imaginado, a princípio, para vocês, que entrega mais do que vocês estão precisando nesse
+[LOCUTOR 21]: momento.
+[LOCUTOR 6]: Quem sabe, no futuro aí, vocês não precisam mais do
+[LOCUTOR 21]: enérgico,
+[LOCUTOR 6]: precisar
+[LOCUTOR 21]: mais
+[LOCUTOR 6]: do
+[LOCUTOR 21]: custo
+[LOCUTOR 6]: para poder atender de acordo com a demanda. Mas, então, nesse momento, pela maturidade da operação, vocês queriam iniciar com algo mais simples.
+[LOCUTOR 21]: [LOCUTOR 3]: para dar testes, para ver se a gente vai conseguir se adaptar, se vai funcionar da forma que a gente quer e se tiver mais alguma outra demanda, daí sim pode avançar para outras partes,
+[LOCUTOR 6]: outras etapas. Perfeito, então não vamos seguir com uma visão de investimento para esse cenário, para essa solução? E vamos buscar aqui uma solução para ver se a gente consegue atender. E daí eu chamo vocês novamente ali, [PESSOA],
+[LOCUTOR 21]: [PESSOA],
+[LOCUTOR 6]: [PESSOA], [PESSOA].
+[LOCUTOR 21]: Tá bom?
+[LOCUTOR 1]: [LOCAL],
+[LOCUTOR 21]: pessoal.
+[LOCUTOR 1]: [LOCAL],
+[LOCUTOR 6]: tchau.
