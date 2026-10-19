@@ -15,6 +15,8 @@ O Bateia lê as transcrições das reuniões comerciais da TOTVS e mostra ao tim
 
 O fluxo segue a sugestão do Challenge: **Transcrição → Processamento → Modelo → Indicadores → Recomendação**. Os campos e as escalas (0 a 100) são os mesmos do app Bateia, para que o resultado possa ir direto para a tela de reunião e para a carteira de clientes.
 
+**App online:** https://bateiasprint4datascience-pyxk8bvzfe8nors7ft6jwk.streamlit.app/
+
 ![App em Streamlit](app_bateia.png)
 
 ## Estrutura do repositório
@@ -76,6 +78,10 @@ Execute as células em ordem (*Run All*). A execução completa leva uns 5 minut
 
 ### 3. App
 
+**Online (sem instalar nada):** abra https://bateiasprint4datascience-pyxk8bvzfe8nors7ft6jwk.streamlit.app/
+
+**No computador:**
+
 ```
 streamlit run app_bateia.py
 ```
@@ -116,4 +122,4 @@ O app analisa o `exemplo_oportunidade.txt` e mostra os números ao lado dos que 
 
 ## Limitações
 
-O rótulo do CRM classifica o cliente, e não a reunião. São só 205 reuniões rotuladas. Não há rótulo de churn nem NPS real para validar o risco e o sentimento, e o ITA ainda não foi comparado com resultado de venda. Os detalhes estão na Parte 7 do notebook.
+O rótulo do CRM classifica o cliente, e não a reunião. São só 205 reuniões rotuladas. Não há rótulo de churn, e o NPS que a base traz é a nota do cliente em uma pesquisa anterior, e não da reunião, então não valida o risco nem o sentimento, e o ITA ainda não foi comparado com resultado de venda. Os detalhes estão na Parte 7 do notebook.
