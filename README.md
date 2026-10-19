@@ -4,7 +4,7 @@ Data Science & Statistical Computing - Challenge 2026 FIAP × TOTVS
 
 Grupo: Enzo Augusto (RM562249), Gustavo Neres (RM561785), Rafaell Santiago (RM563486), Sebastian Iriarte (RM563619)
 
-O Bateia lê as transcrições das reuniões comerciais da TOTVS e mostra ao time comercial o que apareceu em cada uma. Nesta sprint juntamos o que foi feito nas Sprints 1, 2 e 3 em uma solução que recebe uma transcrição nova e devolve, sozinha:
+O Bateia lê as transcrições das reuniões comerciais da TOTVS e mostra ao time comercial o que apareceu em cada uma, para que os pontos mais importantes das conversas não se percam. Nesta sprint juntamos o que foi feito nas Sprints 1, 2 e 3 em uma solução que recebe uma transcrição nova e devolve, sozinha:
 
 - produto TOTVS identificado;
 - sentimento;
@@ -32,7 +32,6 @@ Bateia_Sprint4_DataScience/
 ├── ANON_transcricao.json              transcrições anonimizadas da TOTVS (1.174 reuniões)
 ├── ANON_nome_transcricao.csv          mesmo conjunto com o campo TP_RECURSO (lead/customer)
 ├── reunioes_transcricoes_mockado.csv  base simulada do Challenge
-├── anotacao_120_trechos.csv           trechos anotados pelo grupo (risco, neutro, ?)
 │
 ├── modelo_oportunidade.joblib         modelo final (TF-IDF + Regressão Logística), gerado pelo notebook
 ├── tfidf_termos.joblib                TF-IDF dos principais termos, gerado pelo notebook
@@ -43,7 +42,7 @@ Bateia_Sprint4_DataScience/
 └── app_bateia.png                     imagem do app usada neste README
 ```
 
-Os quatro arquivos de dados são as entradas do notebook. Os arquivos `.joblib`, `paridade.csv` e os dois exemplos são saídas do notebook e entradas do app; eles já estão no repositório para o app rodar sem precisar executar o notebook antes.
+Os três arquivos de dados são as entradas do notebook. Os arquivos `.joblib`, `paridade.csv` e os dois exemplos são saídas do notebook e entradas do app; eles já estão no repositório para o app rodar sem precisar executar o notebook antes.
 
 ## Como rodar
 
@@ -73,7 +72,7 @@ jupyter notebook Bateia_Sprint4_DataScience.ipynb
 
 Execute as células em ordem (*Run All*). A execução completa leva uns 5 minutos. No final, o notebook recria os arquivos `.joblib`, o `paridade.csv` e os dois exemplos.
 
-**No Google Colab.** Abra o notebook pelo Colab (*Arquivo > Abrir notebook > GitHub* e cole o link do repositório). O `ANON_transcricao.json` é baixado sozinho do Google Drive pela primeira célula de dados, como na Sprint 1 e 2. Os outros três arquivos de dados (`ANON_nome_transcricao.csv`, `reunioes_transcricoes_mockado.csv` e `anotacao_120_trechos.csv`) precisam ser enviados pela aba *Arquivos*, à esquerda, antes de executar. A célula de dados mostra `ok` ou `FALTANDO` para cada um.
+**No Google Colab.** Abra o notebook pelo Colab (*Arquivo > Abrir notebook > GitHub* e cole o link do repositório). O `ANON_transcricao.json` é baixado sozinho do Google Drive pela primeira célula de dados, como na Sprint 1 e 2. Os outros dois arquivos de dados (`ANON_nome_transcricao.csv` e `reunioes_transcricoes_mockado.csv`) precisam ser enviados pela aba *Arquivos*, à esquerda, antes de executar. A célula de dados mostra `ok` ou `FALTANDO` para cada um.
 
 ### 3. App
 
@@ -91,7 +90,7 @@ O modelo salvo foi gerado com o `scikit-learn` da versão que está no `requirem
 2. **Modelo final e justificativa:** Regressão Logística e Random Forest comparados por validação cruzada só no treino.
 3. **Sistema de scoring:** oportunidade, risco de churn, ITA e prioridade de 0 a 100, sentimento e selo de confiança.
 4. **Protótipo:** a função `analisar_reuniao`, os arquivos salvos com `joblib` e o app.
-5. **Validação com novas transcrições:** teste guardado, 777 reuniões sem rótulo, base simulada e trechos anotados pelo grupo.
+5. **Validação com novas transcrições:** teste guardado, 777 reuniões sem rótulo e base simulada.
 6. **Recomendações de negócio:** ações sugeridas, carteira de clientes e visão por segmento.
 7. **Limitações e próximos passos.**
 
@@ -109,7 +108,7 @@ O rótulo `TP_RECURSO` (lead = oportunidade, customer = não oportunidade) só a
 
 Os dois modelos empatam no F1-macro. A Regressão Logística foi escolhida porque encontra mais oportunidades reais, varia menos entre os folds e mostra pelos coeficientes quais termos pesaram na decisão. No teste, o F1-macro foi de 0,606, o mesmo da Sprint 3. Na faixa Alta de oportunidade, 62% das reuniões do teste eram oportunidades reais, contra 29% na faixa Baixa.
 
-O alerta de churn é feito por dicionário, porque a base não tem nenhum rótulo de cancelamento. Comparado com os 120 trechos que o grupo anotou, ele não reconheceu os 5 trechos de risco, então funciona como aviso de que vale ler a reunião, e não como previsão.
+O alerta de churn é feito por dicionário, porque a base não tem nenhum rótulo de cancelamento para treinar ou validar um modelo. Por isso ele funciona como aviso de que vale ler a reunião, e não como previsão.
 
 ## Teste de paridade
 
